@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F______&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 🙇 안녕하세요, 🚧 코드의 건축사, 자바로 미래를 설계해 나가고 싶어하는 Backend Programmer 김민지입니다!
+### 🙇 안녕하세요, 🚧 자바 Backend Programmer 김민지입니다.
 
 <!-- Body -->
 
